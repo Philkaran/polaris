@@ -1,0 +1,22 @@
+site_name: Project Polaris
+site_url: https://infra.vestlux.com
+repo_url: https://github.com/Philkaran/polaris
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: cyan
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Architecture Decisions: adr/index.md
+  - Runbooks: runbooks/index.md
+  - Weekly Log: weekly-log/index.md
