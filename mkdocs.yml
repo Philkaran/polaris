@@ -17,6 +17,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Architecture Decisions: adr/index.md
+  - Architecture Decisions:
+      - Overview: adr/index.md
+      - "ADR 0001 — Site Rebuild & Platform Choice": adr/0001-site-rebuild-and-platform-choice.md
   - Runbooks: runbooks/index.md
-  - Weekly Log: weekly-log/index.md
+  - Weekly Log:
+      - Overview: weekly-log/index.md
+      - "Day 0 — Site Rebuild & Infrastructure Platform": weekly-log/day-0.md

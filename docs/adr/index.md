@@ -1,4 +1,3 @@
 # Architecture Decision Records
 
-No decisions recorded yet — the first entry appears the first time a real architecture
-decision gets made, not before.
+- [ADR 0001 — Full Site Rebuild & Documentation Platform Choice](0001-site-rebuild-and-platform-choice.md) — September 30, 2026

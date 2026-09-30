@@ -1,3 +1,3 @@
 # Weekly Log
 
-Dated entries, one per session, starting Week 1.
+- [Day 0 — Site Rebuild & Infrastructure Platform](day-0.md) — September 30, 2026
