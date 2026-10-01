@@ -5,7 +5,7 @@
 
 ## What I did today
 
-Before starting the 8-week Microsoft Hybrid Cloud roadmap, I built my public presence: a personal site (vestlux.com) and this documentation platform (infra.vestlux.com). The goal was to have an honest, working foundation in place before the technical work begins, so every step of the roadmap is documented as it happens and not reconstructed afterwards.
+Before starting the 8-week Microsoft Hybrid Cloud roadmap, I rebuilt my personal site (vestlux.com) from scratch as a professional profile, and built this documentation platform (infra.vestlux.com). The goal was to have an honest, working foundation in place before the technical work begins, so every step of the roadmap is documented as it happens and not reconstructed afterwards.
 
 ## Why two sites
 
