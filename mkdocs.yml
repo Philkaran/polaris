@@ -19,7 +19,7 @@ nav:
   - Home: index.md
   - Architecture Decisions:
       - Overview: adr/index.md
-      - "ADR 0001 — Site Rebuild & Platform Choice": adr/0001-site-rebuild-and-platform-choice.md
+      - "ADR 0001: Site Structure and Platform Choice": adr/0001-site-structure-and-platform-choice.md
   - Runbooks: runbooks/index.md
   - Weekly Log:
       - Overview: weekly-log/index.md
