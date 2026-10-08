@@ -31,6 +31,7 @@ nav:
 
       - "Day 1: Azure Fundamentals": weekly-log/day-01.md
       - "Day 2: Identity and Access": weekly-log/day-02.md
+      - "Day 3: Governance": weekly-log/day-03.md
 
 markdown_extensions:
   - admonition

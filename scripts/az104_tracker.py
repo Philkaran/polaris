@@ -18,13 +18,13 @@ DOMAINS = [
             ("Interpret access assignments", P, "Day 2, direct and inherited"),
         ]),
         ("Subscriptions and governance", [
-            ("Implement and manage Azure Policy", E, "Day 3"),
-            ("Configure resource locks", N, ""),
+            ("Implement and manage Azure Policy", P, "Day 3, Modify and Deny"),
+            ("Configure resource locks", P, "Day 3"),
             ("Apply and manage tags", P, "Day 3"),
-            ("Manage resource groups", E, "Day 1"),
+            ("Manage resource groups", P, "Days 1 and 3"),
             ("Manage subscriptions", E, "Day 1"),
-            ("Manage costs with alerts, budgets and Azure Advisor", PT, "Budget alert set up, Advisor not yet"),
-            ("Configure management groups", E, "Day 1"),
+            ("Manage costs with alerts, budgets and Azure Advisor", P, "Budget alert and Advisor"),
+            ("Configure management groups", P, "Day 3"),
         ]),
     ]),
     ("Implement and manage storage", "15 to 20%", [
