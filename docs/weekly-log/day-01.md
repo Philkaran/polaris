@@ -63,3 +63,14 @@ Every change is recorded in the Activity log with the account that made it. I te
 
 ??? question "Does the Activity log record reads?"
     No. Only changes such as create, update and delete are recorded, each with the account that made them.
+
+## Exam objectives covered
+
+Official AZ-104 objectives (study guide effective April 17, 2026), with an honest status.
+
+- **Explained:** manage resource groups
+- **Explained:** manage subscriptions
+- **Explained:** configure management groups (the hierarchy only, none built)
+- **Explained:** deploy virtual machines to availability zones and availability sets
+
+See the [AZ-104 objective tracker](../exam-tracker/az-104.md).

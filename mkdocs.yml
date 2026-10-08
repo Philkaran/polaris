@@ -20,7 +20,11 @@ nav:
   - Architecture Decisions:
       - Overview: adr/index.md
       - "ADR 0001: Site Structure and Platform Choice": adr/0001-site-structure-and-platform-choice.md
-  - Runbooks: runbooks/index.md
+  - Runbooks:
+      - Overview: runbooks/index.md
+      - "Intermittent connectivity on wireless client devices": runbooks/wireless-client-intermittent-connectivity.md
+  - Exam Tracker:
+      - "AZ-104 objectives": exam-tracker/az-104.md
   - Weekly Log:
       - Overview: weekly-log/index.md
       - "Day 0: Site Build and Infrastructure Platform": weekly-log/day-0.md

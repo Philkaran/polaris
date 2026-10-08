@@ -85,3 +85,15 @@ Entra roles control the directory (users, groups, licenses). Azure roles control
 
 ??? question "Why delete the role assignment before deleting the group?"
     If the group is deleted first, the assignment stays behind as an orphan pointing to an identity that no longer exists.
+
+## Exam objectives covered
+
+Official AZ-104 objectives (study guide effective April 17, 2026), with an honest status.
+
+- **Practised:** create users and groups
+- **Practised:** use built-in Azure roles
+- **Practised:** assign roles at different scopes
+- **Practised:** interpret access assignments
+- **Explained:** manage licenses in Microsoft Entra ID
+
+See the [AZ-104 objective tracker](../exam-tracker/az-104.md).
