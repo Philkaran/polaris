@@ -13,7 +13,7 @@ every weekly log entry, published as the work actually happens.
 
 ## Current status
 
-**Phase 1, Administrator Track.** Week 0 of 8. Starting soon.
+**Phase 1, Administrator Track.** Week 1 of 8, in progress.
 
 ## Structure
 
